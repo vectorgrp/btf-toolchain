@@ -1,3 +1,24 @@
+# Copyright (c) 2023 Vector Informatik GmbH
+# 
+# Permission is hereby granted, free of charge, to any person obtaining
+# a copy of this software and associated documentation files (the
+# "Software"), to deal in the Software without restriction, including
+# without limitation the rights to use, copy, modify, merge, publish,
+# distribute, sublicense, and/or sell copies of the Software, and to
+# permit persons to whom the Software is furnished to do so, subject to
+# the following conditions:
+# 
+# The above copyright notice and this permission notice shall be
+# included in all copies or substantial portions of the Software.
+# 
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+# EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+# MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+# NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+# LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+# OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+# WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 cmake_minimum_required(VERSION 3.10)
 
 
@@ -7,13 +28,12 @@ project(btftoolchain CXX)
 
 option(ENABLE_PYTHON_BINDINGS "Generate python binding, requires pybind11." OFF)
 option(ENABLE_CACHE "Enable cache if available" OFF)
-option(WARNINGS_AS_ERRORS "Treat compiler warnings as errors" ON)
 option(ENABLE_DOXYGEN "Enable doxygen doc builds of source" OFF)
 option(ENABLE_CPPCHECK "Enable static analysis with cppcheck" OFF)
 option(ENABLE_CLANG_TIDY "Enable static analysis with clang-tidy" OFF)
 option(ENABLE_IPO "Enable Interprocedural Optimization, aka Link Time Optimization (LTO)" OFF)
 option(ENABLE_INCLUDE_WHAT_YOU_USE "Enable static analysis with include-what-you-use" OFF)
-option(ENABLE_TESTING "Enable Test Builds, requires catch2" OFF)
+option(ENABLE_TESTING "Enable Test Builds, requires catch2" ON)
 option(ENABLE_FUZZING "Enable Fuzzing Builds" OFF)
 
 # Includes ------------------------------------------------------------------------------------------------
@@ -41,10 +61,6 @@ add_library(project_warnings INTERFACE)
 # enable cache system
 include(cmake/Cache.cmake)
 cache_enable()
-
-# standard compiler warnings
-include(cmake/CompilerWarnings.cmake)
-set_project_warnings(project_warnings)
 
 # sanitizer options if supported by compiler
 include(cmake/Sanitizers.cmake)
