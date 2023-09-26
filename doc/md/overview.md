@@ -11,8 +11,9 @@ The libraries are written in C++, but Python bindings are also provided.
 Possible uses for the btf-toolchain could be to import a BTF file for editing or to create a BTF file from scratch. \n
 The second use case is against the background that the TA Tool suite can only import certain formats such as BTF and VX1000 csv. \n
 For additional trace formats from non-supported operating systems, the BTF toolchain can be used to write a custom X to BTF converter. \n
-An example for such a converter is provided for csv to BTF in Python. For more information go to the "Example Converter" subsection in [How to use the library](usage.md). \n
-
+An example for such a converter is provided for csv to BTF in Python. For more information go to the "Example Converter" subsection in 
+@subpage usage. \n
+\n
 
 
 Libraries
@@ -21,6 +22,7 @@ Libraries
 
 Python Module
   - **pybtf**: bindings to the C++ libraries
+
 \n
 Further information can be found on the following pages:
   - @subpage building
