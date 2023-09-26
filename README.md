@@ -2,19 +2,22 @@
 
 This is the repository for the btf-toolchain, which helps to create Best Trace Format (BTF) files. <br />
 BTF is a trace format for timing analysis that can be imported and analysed by the [TA Tool Suite](https://www.vector.com/int/en/products/products-a-z/software/ta-tool-suite/). <br />
-Possible uses for the btf-toolchain could be to import a BTF file for editing or to create a BTF file from scratch. <br />
-The second use case is against the background that the TA Tool suite can only import certain formats such as BTF and VX1000 csv. <br />
-For additional trace formats from non-supported operating systems, the BTF toolchain can be used to write a custom X to BTF converter. <br />
+
+Possible uses for the btf-toolchain could be to import a BTF file for editing or to create a BTF file from scratch.
+The second use case is against the background that the TA Tool suite can only import certain formats such as BTF and VX1000 csv.
+For additional trace formats from non-supported operating systems, the BTF toolchain can be used to write a custom X to BTF converter.
 See the [Documentation](doc/doxygen_html/index.html) for more information. (If the link does not work go to index.html in the doc/doxygen_html folder) <br />
 The documentation is a combination of Doxygen-generated html files and markdown files. <br />
 It is recommended to open it with a browser. If no browser is available, the overview.md file in doc/md can be opened instead. <br />
-If you are reading this from Github you can open a preview of the documentation via [this link](https://htmlpreview.github.com/vectorgrp/btf-toolchain/main/doc/doxyygen_html/index.html). <br />
+If you are reading this from Github, you can open a preview of the documentation via [this link](https://htmlpreview.github.io/?https://github.com/vectorgrp/btf-toolchain/blob/main/doc/doxygen_html/index.html). <br />
 <br />
 
 # Content:
-* libBtf: reading and writing of BTF files
-* libHelper: utilities like logging
-* pybtf: bingings to the C++ libraries for Python
+* src/libBtf: reading and writing of BTF files
+* src/libHelper: utilities like logging
+* test: examples on how to use the btf-toolchain in C++
+* pybtf: bindings to the C++ libraries for Python
+* pytest: examples on how to use the btf-toolchain in Python
 <br />
 
 # Dependencies:
