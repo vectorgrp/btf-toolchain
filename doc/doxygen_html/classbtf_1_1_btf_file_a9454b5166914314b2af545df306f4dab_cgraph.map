@@ -1,0 +1,10 @@
+<map id="btf::BtfFile::coreEvent" name="btf::BtfFile::coreEvent">
+<area shape="rect" id="node1" title="Emits a core event. See overloaded function for more information." alt="" coords="5,86,152,113"/>
+<area shape="rect" id="node2" href="$classbtf_1_1_core.html#af577029a98e9f5f82e8981cc0d80f62e" title="Converts the enum Events into string." alt="" coords="207,61,364,87"/>
+<area shape="rect" id="node3" href="$namespacehelper_1_1logging.html#a0e1881bbc937b702aa298c5f5141b79b" title="Writes a trace message to the log." alt="" coords="200,111,371,138"/>
+<area shape="rect" id="node4" href="$namespacehelper_1_1logging.html#aadee8ee5d31250ae8288888fa86814a3" title="Prints a log message to the log." alt="" coords="419,111,579,138"/>
+<area shape="rect" id="node5" href="$classhelper_1_1logging_1_1_global_logger.html#a080a88af50f5861331d887d02324e9c2" title="Gets the logger (ostream)." alt="" coords="627,5,817,47"/>
+<area shape="rect" id="node6" href="$classhelper_1_1logging_1_1_global_logger.html#a956281901fd88046239494c600e3c5e5" title="Gets the null logger (ostream)." alt="" coords="627,71,817,112"/>
+<area shape="rect" id="node7" href="$namespacehelper_1_1logging.html#a69b892408158ee6bed51c5aafa694af7" title="Converts the enum LogLevel into string." alt="" coords="642,136,802,177"/>
+<area shape="rect" id="node8" href="$namespacehelper_1_1logging.html#a33b1f83f96be6edb81fa28ddba33179d" title="Gets the source file name out of the path." alt="" coords="632,201,812,243"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="btf::BtfEntry::toString" name="btf::BtfEntry::toString">
+<area shape="rect" id="node1" title="Converts a BtfEntry into string." alt="" coords="200,5,344,32"/>
+<area shape="rect" id="node2" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,5,152,32"/>
+</map>

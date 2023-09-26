@@ -1,0 +1,11 @@
+<map id="btf::BtfFile::processEvent" name="btf::BtfFile::processEvent">
+<area shape="rect" id="node1" title="Emits a task event (except migration). See overloaded function for more information." alt="" coords="5,61,172,87"/>
+<area shape="rect" id="node2" href="$classbtf_1_1_process.html#ac2b6cd5b0524fba0a5c248ba4b223001" title="Converts the enum Events into string." alt="" coords="224,10,403,37"/>
+<area shape="rect" id="node3" href="$classbtf_1_1_process.html#a11991ab813dd34ef8d763f86b7fd40ad" title="Gets the source type of the event." alt="" coords="220,61,407,87"/>
+<area shape="rect" id="node4" href="$namespacehelper_1_1logging.html#a0e1881bbc937b702aa298c5f5141b79b" title="Writes a trace message to the log." alt="" coords="228,111,399,138"/>
+<area shape="rect" id="node5" href="$namespacehelper_1_1logging.html#aadee8ee5d31250ae8288888fa86814a3" title="Prints a log message to the log." alt="" coords="455,111,615,138"/>
+<area shape="rect" id="node6" href="$classhelper_1_1logging_1_1_global_logger.html#a080a88af50f5861331d887d02324e9c2" title="Gets the logger (ostream)." alt="" coords="663,5,853,47"/>
+<area shape="rect" id="node7" href="$classhelper_1_1logging_1_1_global_logger.html#a956281901fd88046239494c600e3c5e5" title="Gets the null logger (ostream)." alt="" coords="663,71,853,112"/>
+<area shape="rect" id="node8" href="$namespacehelper_1_1logging.html#a69b892408158ee6bed51c5aafa694af7" title="Converts the enum LogLevel into string." alt="" coords="678,136,838,177"/>
+<area shape="rect" id="node9" href="$namespacehelper_1_1logging.html#a33b1f83f96be6edb81fa28ddba33179d" title="Gets the source file name out of the path." alt="" coords="668,201,848,243"/>
+</map>

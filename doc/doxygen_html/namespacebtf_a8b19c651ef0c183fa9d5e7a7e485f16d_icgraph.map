@@ -1,0 +1,11 @@
+<map id="btf::Events" name="btf::Events">
+<area shape="rect" id="node1" title="Default Constructor which is assumed to be a BtfEntry with a Core event." alt="" coords="643,157,725,184"/>
+<area shape="rect" id="node2" href="$classbtf_1_1_btf_file.html#ac5d7ec6b90a8f97ccfb08a725c84b242" title="Emits a comment." alt="" coords="438,31,581,57"/>
+<area shape="rect" id="node5" href="$classbtf_1_1_btf_file.html#a67251691e4a66475a4a5a1206687247d" title="Emits an OS event." alt="" coords="442,81,577,108"/>
+<area shape="rect" id="node6" href="$classbtf_1_1_btf_file.html#a896b211a7dc7ae186bc40def24118d63" title="Emits a runnable event (source is a core)." alt="" coords="424,132,595,159"/>
+<area shape="rect" id="node7" href="$classbtf_1_1_btf_file.html#a8b5cdb386d659ce9c1976610184c84b0" title="Emits a signal event (source is a core)." alt="" coords="432,183,587,209"/>
+<area shape="rect" id="node8" href="$classbtf_1_1_btf_file.html#a6a833a5294de45b581ce786bb4ca5416" title="Emits a task event (except migration)." alt="" coords="436,233,583,260"/>
+<area shape="rect" id="node9" href="$classbtf_1_1_btf_file.html#a30d8ad8f86ef7f49cc97ce4ff61ab783" title="Emits a task migration event." alt="" coords="426,285,593,326"/>
+<area shape="rect" id="node3" href="$classbtf_1_1_btf_file.html#ae1e0e725a1569e510b767acc6ce2d648" title="Appends the data from a BTF file. Currently only import into an empty BTF file is supported." alt="" coords="200,5,376,32"/>
+<area shape="rect" id="node4" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,31,152,57"/>
+</map>

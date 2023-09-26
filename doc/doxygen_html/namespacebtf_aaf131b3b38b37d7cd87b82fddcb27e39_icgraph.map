@@ -1,0 +1,5 @@
+<map id="btf::eventToString" name="btf::eventToString">
+<area shape="rect" id="node1" title="Converts union Events into string according to the type_ of the BtfEntry." alt="" coords="337,5,460,32"/>
+<area shape="rect" id="node2" href="$namespacebtf.html#ac6671a1d4b5a7d46aa0402142a79d4b8" title="Converts a BtfEntry into string." alt="" coords="200,5,289,32"/>
+<area shape="rect" id="node3" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,5,152,32"/>
+</map>

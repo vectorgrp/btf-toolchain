@@ -1,0 +1,4 @@
+<map id="btf::BtfFile::setStringHashMap" name="btf::BtfFile::setStringHashMap">
+<area shape="rect" id="node1" title="Sets the ID to name translation map. This should only be used for traces that use ID based APIs (e...." alt="" coords="200,5,396,32"/>
+<area shape="rect" id="node2" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,5,152,32"/>
+</map>

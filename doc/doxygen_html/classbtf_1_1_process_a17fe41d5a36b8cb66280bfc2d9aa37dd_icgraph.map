@@ -1,0 +1,4 @@
+<map id="btf::Process::isEventDeallocatingCore" name="btf::Process::isEventDeallocatingCore">
+<area shape="rect" id="node1" title="Checks, if the event will lead to an deallocation from the core." alt="" coords="220,5,460,32"/>
+<area shape="rect" id="node2" href="$classbtf_1_1_btf_file.html#a64dd3a4762bd03767ebbc380810f1bcb" title="Emits a process event (except task migration)." alt="" coords="5,5,172,32"/>
+</map>

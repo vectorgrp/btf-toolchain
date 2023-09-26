@@ -1,0 +1,9 @@
+<map id="btf::Process::eventToString" name="btf::Process::eventToString">
+<area shape="rect" id="node1" title="Converts the enum Events into string." alt="" coords="649,56,828,83"/>
+<area shape="rect" id="node2" href="$classbtf_1_1_btf_entry.html#a056141170fa8f9dd0001691a1bb336b8" title="Converts union Events into string according to the type_ of the BtfEntry." alt="" coords="424,19,601,45"/>
+<area shape="rect" id="node5" href="$classbtf_1_1_btf_file.html#a3f6b54fa6c96e04ce016ab81d1f80901" title="Emits a task event (except migration). See overloaded function for more information." alt="" coords="429,81,596,108"/>
+<area shape="rect" id="node3" href="$classbtf_1_1_btf_entry.html#ac6671a1d4b5a7d46aa0402142a79d4b8" title="Converts a BtfEntry into string." alt="" coords="216,5,360,32"/>
+<area shape="rect" id="node4" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node6" href="$classbtf_1_1_btf_file.html#ae1e0e725a1569e510b767acc6ce2d648" title="Appends the data from a BTF file. Currently only import into an empty BTF file is supported." alt="" coords="200,107,376,133"/>
+<area shape="rect" id="node7" href="$classbtf_1_1_btf_file.html#a67251691e4a66475a4a5a1206687247d" title="Emits an OS event (source is a core or a process depending on the value of the core_is_source paramet..." alt="" coords="221,157,355,184"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="helper::logging::GlobalLogger::getLogger" name="helper::logging::GlobalLogger::getLogger">
+<area shape="rect" id="node1" title="Gets the logger (ostream)." alt="" coords="1100,112,1291,153"/>
+<area shape="rect" id="node2" href="$namespacehelper_1_1logging.html#a8405ad51527364dd7ad47a226e4bab85" title="Flushes the log." alt="" coords="901,82,1043,109"/>
+<area shape="rect" id="node5" href="$namespacehelper_1_1logging.html#aadee8ee5d31250ae8288888fa86814a3" title="Prints a log message to the log." alt="" coords="892,145,1052,171"/>
+<area shape="rect" id="node3" href="$libhelper__binding_8h.html#a2c5a40794af354dc9e9ec0a59b15a093" title="Helper function which is called inside the PYBIND11_MODULE macro and adds Python bindings to the C++ ..." alt="" coords="462,69,571,95"/>
+<area shape="rect" id="node4" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,431,152,458"/>
+<area shape="rect" id="node6" href="$namespacehelper_1_1logging.html#a182d159db05f7638d388b4ee9740af04" title="Writes an error message to the log." alt="" coords="667,119,834,146"/>
+<area shape="rect" id="node7" href="$namespacehelper_1_1logging.html#a0e1881bbc937b702aa298c5f5141b79b" title="Writes a trace message to the log." alt="" coords="665,439,836,466"/>
+<area shape="rect" id="node25" href="$namespacehelper_1_1logging.html#a9181c24054b42b4c6b18afff28b762bb" title="Writes a warning message to the log." alt="" coords="657,170,844,197"/>
+<area shape="rect" id="node8" href="$classbtf_1_1_btf_file.html#a9454b5166914314b2af545df306f4dab" title="Emits a core event. See overloaded function for more information." alt="" coords="443,439,590,466"/>
+<area shape="rect" id="node10" href="$classbtf_1_1_btf_file.html#a53a53570d80ddcb7d3e762fe219fd019" title="Emits an OS event (source is a core or a process depending on the value of the core_is_source paramet..." alt="" coords="449,490,584,517"/>
+<area shape="rect" id="node11" href="$classbtf_1_1_btf_file.html#a3f6b54fa6c96e04ce016ab81d1f80901" title="Emits a task event (except migration). See overloaded function for more information." alt="" coords="433,221,600,247"/>
+<area shape="rect" id="node13" href="$classbtf_1_1_btf_file.html#a3a7b48f23d0c26343e8b4a2a452319b6" title="Emits a runnable event (source is a core or process depending on the value of the core_is_source para..." alt="" coords="431,541,602,567"/>
+<area shape="rect" id="node16" href="$classbtf_1_1_btf_file.html#ae1ebfe73fc7c7d04defcb27446a2c4b6" title="Emits a scheduler event. See overloaded function for more information." alt="" coords="428,591,605,618"/>
+<area shape="rect" id="node17" href="$classbtf_1_1_btf_file.html#ad3520a015342189e2b8969547dedcb43" title="Emits a semaphore event. See overloaded function for more information." alt="" coords="424,642,609,669"/>
+<area shape="rect" id="node18" href="$classbtf_1_1_btf_file.html#abd1356570158b60e3bf92fc006adcda8" title="Emits a signal event (source is a core or process depending on the value of the core_is_source parame..." alt="" coords="439,693,594,719"/>
+<area shape="rect" id="node19" href="$classbtf_1_1_btf_file.html#a7e534fb0663307cb4fbdacfcfda78308" title="Emits a process creation event. See overloaded function for more information." alt="" coords="213,837,363,879"/>
+<area shape="rect" id="node20" href="$classbtf_1_1_btf_file.html#a8e8ea0a0f02b56b5a5622641052a5e98" title="Emits a process name event (e.g. name change or initial name). See overloaded function for more infor..." alt="" coords="214,903,362,944"/>
+<area shape="rect" id="node21" href="$classbtf_1_1_btf_file.html#a4b3c16fb33a93dcc75746a0b828eb040" title="Emits a thread creation event. See overloaded function for more information." alt="" coords="214,47,362,88"/>
+<area shape="rect" id="node22" href="$classbtf_1_1_btf_file.html#ae21ef03719f3af5a72d682bf9ae5d8d9" title="Emits a thread name event (e.g. name change or initial name). See overloaded function for more inform..." alt="" coords="214,112,362,153"/>
+<area shape="rect" id="node23" href="$classbtf_1_1_btf_file.html#aad9571cc39c02a1e460e8c913598abb9" title="Emits a stimulus event. See overloaded function for more information." alt="" coords="431,271,602,298"/>
+<area shape="rect" id="node24" href="$classbtf_1_1_btf_file.html#a66ddf92cf6d3b6f48ca5876d0bdfea20" title="Emits a task migration event. See overloaded function for more information." alt="" coords="433,323,600,364"/>
+<area shape="rect" id="node9" href="$classbtf_1_1_btf_file.html#ae1e0e725a1569e510b767acc6ce2d648" title="Appends the data from a BTF file. Currently only import into an empty BTF file is supported." alt="" coords="200,431,376,458"/>
+<area shape="rect" id="node12" href="$classbtf_1_1_btf_file.html#a67251691e4a66475a4a5a1206687247d" title="Emits an OS event (source is a core or a process depending on the value of the core_is_source paramet..." alt="" coords="221,178,355,205"/>
+<area shape="rect" id="node14" href="$classbtf_1_1_btf_file.html#a64dd3a4762bd03767ebbc380810f1bcb" title="Emits a process event (except task migration)." alt="" coords="205,583,371,610"/>
+<area shape="rect" id="node15" href="$classbtf_1_1_btf_file.html#a37ac4560542170c72a0e1aad2d8b4753" title="Emits a runnable event (source is a core or process depending on the value of the core_is_source para..." alt="" coords="203,533,373,559"/>
+</map>

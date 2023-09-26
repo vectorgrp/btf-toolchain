@@ -1,0 +1,4 @@
+<map id="btf::BtfFile::getAllEvents" name="btf::BtfFile::getAllEvents">
+<area shape="rect" id="node1" title="Gets a list of all events." alt="" coords="200,5,361,32"/>
+<area shape="rect" id="node2" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,5,152,32"/>
+</map>

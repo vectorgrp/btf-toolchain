@@ -1,0 +1,9 @@
+<map id="btf::BtfFile::stimulusEvent" name="btf::BtfFile::stimulusEvent">
+<area shape="rect" id="node1" title="Emits a stimulus event." alt="" coords="5,111,176,138"/>
+<area shape="rect" id="node2" href="$namespacehelper_1_1logging.html#a9181c24054b42b4c6b18afff28b762bb" title="Writes a warning message to the log." alt="" coords="224,111,411,138"/>
+<area shape="rect" id="node3" href="$namespacehelper_1_1logging.html#aadee8ee5d31250ae8288888fa86814a3" title="Prints a log message to the log." alt="" coords="459,111,619,138"/>
+<area shape="rect" id="node4" href="$classhelper_1_1logging_1_1_global_logger.html#a080a88af50f5861331d887d02324e9c2" title="Gets the logger (ostream)." alt="" coords="667,5,857,47"/>
+<area shape="rect" id="node5" href="$classhelper_1_1logging_1_1_global_logger.html#a956281901fd88046239494c600e3c5e5" title="Gets the null logger (ostream)." alt="" coords="667,71,857,112"/>
+<area shape="rect" id="node6" href="$namespacehelper_1_1logging.html#a69b892408158ee6bed51c5aafa694af7" title="Converts the enum LogLevel into string." alt="" coords="682,136,842,177"/>
+<area shape="rect" id="node7" href="$namespacehelper_1_1logging.html#a33b1f83f96be6edb81fa28ddba33179d" title="Gets the source file name out of the path." alt="" coords="672,201,852,243"/>
+</map>

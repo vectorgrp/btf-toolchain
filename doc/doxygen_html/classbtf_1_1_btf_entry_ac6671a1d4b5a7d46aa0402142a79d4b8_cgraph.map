@@ -1,0 +1,14 @@
+<map id="btf::BtfEntry::toString" name="btf::BtfEntry::toString">
+<area shape="rect" id="node1" title="Converts a BtfEntry into string." alt="" coords="5,183,149,209"/>
+<area shape="rect" id="node2" href="$namespacebtf.html#a6baf1b32b87e1c30ff1ab04904a03490" title="Converts the enum EntityTypes into string." alt="" coords="210,157,362,184"/>
+<area shape="rect" id="node3" href="$classbtf_1_1_btf_entry.html#a056141170fa8f9dd0001691a1bb336b8" title="Converts union Events into string according to the type_ of the BtfEntry." alt="" coords="197,208,375,235"/>
+<area shape="rect" id="node4" href="$classbtf_1_1_signal.html#a120fa6ebdf2e3b74c57f98bced1d53e2" title="Converts the enum Events into string." alt="" coords="437,5,604,32"/>
+<area shape="rect" id="node5" href="$classbtf_1_1_core.html#af577029a98e9f5f82e8981cc0d80f62e" title="Converts the enum Events into string." alt="" coords="442,56,599,83"/>
+<area shape="rect" id="node6" href="$classbtf_1_1_o_s.html#af627f5bcc47760ff9809871b23da87cc" title="Converts the enum Events into string." alt="" coords="446,107,595,133"/>
+<area shape="rect" id="node7" href="$classbtf_1_1_process.html#ac2b6cd5b0524fba0a5c248ba4b223001" title="Converts the enum Events into string." alt="" coords="431,157,610,184"/>
+<area shape="rect" id="node8" href="$classbtf_1_1_runnable.html#ae588697e7b86706ac5a094af09db0c74" title="Converts the enum Events into string." alt="" coords="429,208,613,235"/>
+<area shape="rect" id="node9" href="$classbtf_1_1_scheduler.html#ade30adab31494faff6e8b89727522464" title="Converts the enum Events into string." alt="" coords="427,259,615,285"/>
+<area shape="rect" id="node10" href="$classbtf_1_1_semaphore.html#a009325c47cd25c9396f83f8558ed565a" title="Converts the enum Events into string." alt="" coords="423,309,619,336"/>
+<area shape="rect" id="node11" href="$classbtf_1_1_simulation.html#a4e8900d9b37d10d407927ca039533cec" title="Converts the enum Events into string." alt="" coords="442,361,599,402"/>
+<area shape="rect" id="node12" href="$classbtf_1_1_stimulus.html#a7a7c5b6d5ef557ed266a8ecb025e326c" title="Converts the enum Events into string." alt="" coords="430,427,611,453"/>
+</map>

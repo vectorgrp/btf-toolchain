@@ -1,0 +1,5 @@
+<map id="helper::logging::initLogging" name="helper::logging::initLogging">
+<area shape="rect" id="node1" title="Initalizes the logging feature." alt="" coords="5,13,181,39"/>
+<area shape="rect" id="node2" href="$classhelper_1_1logging_1_1_global_logger.html#ac56da8e28a4323e5a378ae85254ccb95" title="Opens the log file." alt="" coords="229,5,420,47"/>
+<area shape="rect" id="node3" href="$classhelper_1_1logging_1_1_global_logger.html#a5427682435207fff8480cf8b9ce3e178" title="Closes the log file." alt="" coords="468,5,659,47"/>
+</map>

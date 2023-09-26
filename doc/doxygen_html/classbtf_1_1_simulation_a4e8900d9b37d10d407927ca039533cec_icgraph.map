@@ -1,0 +1,6 @@
+<map id="btf::Simulation::eventToString" name="btf::Simulation::eventToString">
+<area shape="rect" id="node1" title="Converts the enum Events into string." alt="" coords="617,5,775,47"/>
+<area shape="rect" id="node2" href="$classbtf_1_1_btf_entry.html#a056141170fa8f9dd0001691a1bb336b8" title="Converts union Events into string according to the type_ of the BtfEntry." alt="" coords="392,13,569,39"/>
+<area shape="rect" id="node3" href="$classbtf_1_1_btf_entry.html#ac6671a1d4b5a7d46aa0402142a79d4b8" title="Converts a BtfEntry into string." alt="" coords="200,13,344,39"/>
+<area shape="rect" id="node4" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,13,152,39"/>
+</map>
