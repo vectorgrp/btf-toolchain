@@ -1,5 +1,0 @@
-<map id="helper::logging::printError" name="helper::logging::printError">
-<area shape="rect" id="node1" title="Writes an error message to the log." alt="" coords="357,5,524,32"/>
-<area shape="rect" id="node2" href="$libhelper__binding_8h.html#a2c5a40794af354dc9e9ec0a59b15a093" title="Helper function which is called inside the PYBIND11_MODULE macro and adds Python bindings to the C++ ..." alt="" coords="200,5,309,32"/>
-<area shape="rect" id="node3" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,5,152,32"/>
-</map>

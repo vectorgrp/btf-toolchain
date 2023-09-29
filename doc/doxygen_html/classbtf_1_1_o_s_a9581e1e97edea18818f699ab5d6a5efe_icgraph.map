@@ -1,4 +1,0 @@
-<map id="btf::OS::isWait" name="btf::OS::isWait">
-<area shape="rect" id="node1" title="Checks, if the current OS event is wait_event." alt="" coords="188,5,296,32"/>
-<area shape="rect" id="node2" href="$classbtf_1_1_btf_file.html#a67251691e4a66475a4a5a1206687247d" title="Emits an OS event." alt="" coords="5,5,140,32"/>
-</map>

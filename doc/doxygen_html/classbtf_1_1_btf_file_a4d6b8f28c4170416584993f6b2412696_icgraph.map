@@ -1,6 +1,0 @@
-<map id="btf::BtfFile::processEvent" name="btf::BtfFile::processEvent">
-<area shape="rect" id="node1" title="Emits a task event (except migration). See overloaded function for more information." alt="" coords="424,56,591,83"/>
-<area shape="rect" id="node2" href="$classbtf_1_1_btf_file.html#ae1e0e725a1569e510b767acc6ce2d648" title="Appends the data from a BTF file. Currently only import into an empty BTF file is supported." alt="" coords="200,5,376,32"/>
-<area shape="rect" id="node3" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,31,152,57"/>
-<area shape="rect" id="node4" href="$classbtf_1_1_btf_file.html#a67251691e4a66475a4a5a1206687247d" title="Emits an OS event (source is a process)." alt="" coords="221,107,355,133"/>
-</map>

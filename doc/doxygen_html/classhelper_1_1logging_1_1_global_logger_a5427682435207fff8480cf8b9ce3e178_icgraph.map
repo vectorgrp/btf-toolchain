@@ -1,7 +1,0 @@
-<map id="helper::logging::GlobalLogger::closeLogFile" name="helper::logging::GlobalLogger::closeLogFile">
-<area shape="rect" id="node1" title="Closes the log file." alt="" coords="820,5,1011,47"/>
-<area shape="rect" id="node2" href="$classhelper_1_1logging_1_1_global_logger.html#ac56da8e28a4323e5a378ae85254ccb95" title="Opens the log file." alt="" coords="581,5,772,47"/>
-<area shape="rect" id="node3" href="$namespacehelper_1_1logging.html#a07c8ea0d769c17b04f96a11ea545f8e8" title="Initalizes the logging feature." alt="" coords="357,13,533,39"/>
-<area shape="rect" id="node4" href="$libhelper__binding_8h.html#a2c5a40794af354dc9e9ec0a59b15a093" title="Helper function which is called inside the PYBIND11_MODULE macro and adds Python bindings to the C++ ..." alt="" coords="200,13,309,39"/>
-<area shape="rect" id="node5" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,13,152,39"/>
-</map>

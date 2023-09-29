@@ -6,10 +6,9 @@ BTF is a trace format for timing analysis that can be imported and analysed by t
 Possible uses for the btf-toolchain could be to import a BTF file for editing or to create a BTF file from scratch.
 The second use case is against the background that the TA Tool suite can only import certain formats such as BTF and VX1000 csv.
 For additional trace formats from non-supported operating systems, the BTF toolchain can be used to write a custom X to BTF converter.
-See the [Documentation](doc/doxygen_html/index.html) for more information. (If the link does not work go to index.html in the doc/doxygen_html folder) <br />
+See the [Documentation](https://vectorgrp.github.io/btf-toolchain/) for more information.<br />
 The documentation is a combination of Doxygen-generated html files and markdown files. <br />
 It is recommended to open it with a browser. If no browser is available, the overview.md file in doc/md can be opened instead. <br />
-If you are reading this from Github, you can open a preview of the documentation via [this link](https://htmlpreview.github.io/?https://github.com/vectorgrp/btf-toolchain/blob/main/doc/doxygen_html/index.html). <br />
 <br />
 
 # Content:

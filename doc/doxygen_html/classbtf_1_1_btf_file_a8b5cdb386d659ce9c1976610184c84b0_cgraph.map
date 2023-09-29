@@ -1,4 +1,0 @@
-<map id="btf::BtfFile::signalEvent" name="btf::BtfFile::signalEvent">
-<area shape="rect" id="node1" title="Emits a signal event (source is a core)." alt="" coords="5,5,160,32"/>
-<area shape="rect" id="node2" href="$namespacebtf.html#a8b19c651ef0c183fa9d5e7a7e485f16d" title="Default Constructor which is assumed to be a BtfEntry with a Core event." alt="" coords="208,5,291,32"/>
-</map>

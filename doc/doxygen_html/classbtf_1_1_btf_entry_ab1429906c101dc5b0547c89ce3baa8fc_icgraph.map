@@ -1,5 +1,0 @@
-<map id="btf::BtfEntry::note_" name="btf::BtfEntry::note_">
-<area shape="rect" id="node1" title="Comments added to the BtfEntry." alt="" coords="392,5,523,32"/>
-<area shape="rect" id="node2" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,5,152,32"/>
-<area shape="rect" id="node3" href="$classbtf_1_1_btf_entry.html#ac6671a1d4b5a7d46aa0402142a79d4b8" title="Converts a BtfEntry into string." alt="" coords="200,31,344,57"/>
-</map>

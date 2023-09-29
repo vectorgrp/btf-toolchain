@@ -1,4 +1,0 @@
-<map id="helper::logging::flush" name="helper::logging::flush">
-<area shape="rect" id="node1" title="Flushes the log." alt="" coords="5,13,147,39"/>
-<area shape="rect" id="node2" href="$classhelper_1_1logging_1_1_global_logger.html#a080a88af50f5861331d887d02324e9c2" title="Gets the logger (ostream)." alt="" coords="195,5,385,47"/>
-</map>

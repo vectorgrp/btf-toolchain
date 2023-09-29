@@ -1,4 +1,0 @@
-<map id="init_pybtfhelper" name="init_pybtfhelper">
-<area shape="rect" id="node1" title="Helper function which is called inside the PYBIND11_MODULE macro and adds Python bindings to the C++ ..." alt="" coords="200,5,309,32"/>
-<area shape="rect" id="node2" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,5,152,32"/>
-</map>

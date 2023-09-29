@@ -1,4 +1,0 @@
-<map id="btf::BtfFile::taskMigrationEvent" name="btf::BtfFile::taskMigrationEvent">
-<area shape="rect" id="node1" title="Emits a task migration event." alt="" coords="5,5,172,47"/>
-<area shape="rect" id="node2" href="$namespacebtf.html#a8b19c651ef0c183fa9d5e7a7e485f16d" title="Default Constructor which is assumed to be a BtfEntry with a Core event." alt="" coords="220,13,303,39"/>
-</map>

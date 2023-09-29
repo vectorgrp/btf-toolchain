@@ -1,9 +1,0 @@
-<map id="btf::BtfFile::taskMigrationEvent" name="btf::BtfFile::taskMigrationEvent">
-<area shape="rect" id="node1" title="Emits a task migration event. See overloaded function for more information." alt="" coords="5,104,172,145"/>
-<area shape="rect" id="node2" href="$namespacehelper_1_1logging.html#a0e1881bbc937b702aa298c5f5141b79b" title="Writes a trace message to the log." alt="" coords="220,111,391,138"/>
-<area shape="rect" id="node3" href="$namespacehelper_1_1logging.html#aadee8ee5d31250ae8288888fa86814a3" title="Prints a log message to the log." alt="" coords="439,111,599,138"/>
-<area shape="rect" id="node4" href="$classhelper_1_1logging_1_1_global_logger.html#a080a88af50f5861331d887d02324e9c2" title="Gets the logger (ostream)." alt="" coords="647,5,837,47"/>
-<area shape="rect" id="node5" href="$classhelper_1_1logging_1_1_global_logger.html#a956281901fd88046239494c600e3c5e5" title="Gets the null logger (ostream)." alt="" coords="647,71,837,112"/>
-<area shape="rect" id="node6" href="$namespacehelper_1_1logging.html#a69b892408158ee6bed51c5aafa694af7" title="Converts the enum LogLevel into string." alt="" coords="662,136,822,177"/>
-<area shape="rect" id="node7" href="$namespacehelper_1_1logging.html#a33b1f83f96be6edb81fa28ddba33179d" title="Gets the source file name out of the path." alt="" coords="652,201,832,243"/>
-</map>

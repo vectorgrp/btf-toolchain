@@ -1,4 +1,0 @@
-<map id="btf::BtfFile::setIgnoreMultipleTaskReleases" name="btf::BtfFile::setIgnoreMultipleTaskReleases">
-<area shape="rect" id="node1" title="Sets the option to ignore multiple releases on a waiting task." alt="" coords="200,5,387,47"/>
-<area shape="rect" id="node2" href="$libbtf__binding_8cpp.html#adfae743278a01284c171e56ddabf18bd" title="Macro that creates a function that will be called when the module pybtf is imported within python...." alt="" coords="5,13,152,39"/>
-</map>
